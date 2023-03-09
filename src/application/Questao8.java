@@ -7,7 +7,7 @@ import java.io.IOException;
 public class Questao8 {
 	public static void main(String[] args) {
 		int numLinhas = contadorLinhas();
-		System.out.println("Número de linhas que atendem as condições: " + numLinhas);
+		System.out.println("Número de linhas que atendem as condições: " + numLinhas); // Número de linhas que atendem as condições: 6662
 
 	}
 
